@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225623207665",
+    "project_id": "placementpredictionanalysis",
+    "storage_bucket": "placementpredictionanalysis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225623207665:android:b90a0b7c9b6bf11b47c350",
+        "android_client_info": {
+          "package_name": "com.example.placement_prediction_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV60cnoeZgc721Yj91OI1jGppb6cFfTKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

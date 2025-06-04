@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "placementpredictionanalysis",
+          "appId": "1:225623207665:android:b90a0b7c9b6bf11b47c350",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "placementpredictionanalysis",
+          "configurations": {
+            "android": "1:225623207665:android:b90a0b7c9b6bf11b47c350",
+            "ios": "1:225623207665:ios:495f022fe017c95647c350",
+            "macos": "1:225623207665:ios:495f022fe017c95647c350",
+            "web": "1:225623207665:web:51f4e4e638f563e847c350",
+            "windows": "1:225623207665:web:417515aba7f77c6d47c350"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
