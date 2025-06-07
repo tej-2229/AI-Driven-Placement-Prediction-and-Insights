@@ -37,7 +37,7 @@ class _AptitudeTestScreenState extends State<AptitudeTestScreen> {
       {}; // Questions by category
   Map<String, int> categoryQuestionIndices =
       {}; // Current question index per category
-  bool _isExiting = false;
+  final bool _isExiting = false;
 
   @override
   void initState() {
